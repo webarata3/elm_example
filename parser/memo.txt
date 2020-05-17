@@ -1,0 +1,2 @@
+elm make src/Main.elm --output=public/js/main.js
+python -m SimpleHTTPServer 8000
